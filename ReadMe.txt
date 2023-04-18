@@ -1,4 +1,4 @@
-# Project installation guide
+#project installation guide
 
 ## Table of contents
 * [General info](#general-info)
